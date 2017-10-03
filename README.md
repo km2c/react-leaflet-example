@@ -1,7 +1,9 @@
 Example of React leaflet and makimarkers-react
 
-##Install
-`yarn`
+## Install
 
-##Run
-`yarn start`
+```yarn```
+
+## Run
+
+```yarn start```
