@@ -1,0 +1,13 @@
+h1 {
+  float: left;
+}
+.link-bar {
+  padding:20px 0;
+  text-align: right;
+}
+.toggle {
+  padding: 10px 10px 10px 30px;
+  margin-bottom: 15px;
+  background: url('/radius.png') 5px 8px no-repeat;
+  background-size: 15%;
+} 

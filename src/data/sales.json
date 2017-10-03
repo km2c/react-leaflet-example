@@ -1,0 +1,657 @@
+[
+  {
+    "sales_id": "00511381-e3e3-4daa-aaa3-4603fc0598b5",
+    "latitude": 44.6624292001372,
+    "longitude": -93.4179787146171
+  },
+  {
+    "sales_id": "013f1672-40ef-41ce-a9ba-a99860f53a6c",
+    "latitude": 44.8015824941769,
+    "longitude": -93.2122516006323
+  },
+  {
+    "sales_id": "01da99a3-f18c-43a5-bf79-7c3e1dd98b31",
+    "latitude": 44.9058976208015,
+    "longitude": -93.299545029047
+  },
+  {
+    "sales_id": "0318ed37-28dc-48fa-946a-831a16a4ded0",
+    "latitude": 44.7395168698527,
+    "longitude": -93.2084872917003
+  },
+  {
+    "sales_id": "0544bd6d-efd8-428e-8b3a-bb64342e3133",
+    "latitude": 44.6392871227585,
+    "longitude": -93.1401176920784
+  },
+  {
+    "sales_id": "074e336c-99d7-47fc-946a-c01362a925a1",
+    "latitude": 44.7341864285714,
+    "longitude": -93.266353041271
+  },
+  {
+    "sales_id": "0c861c5e-61b0-4514-81d7-a994e8f54f8b",
+    "latitude": 44.8081165003598,
+    "longitude": -93.2167582521088
+  },
+  {
+    "sales_id": "0f0c8695-5655-4e7e-9636-02910568a6e1",
+    "latitude": 44.9484798793404,
+    "longitude": -93.384586433922
+  },
+  {
+    "sales_id": "11b2530d-a40e-477c-a4ef-8a25615e26b2",
+    "latitude": 44.7603254088131,
+    "longitude": -93.194347997129
+  },
+  {
+    "sales_id": "1244e27e-5ad6-4fda-9497-fafe0879591a",
+    "latitude": 44.7963149734272,
+    "longitude": -93.1578583221918
+  },
+  {
+    "sales_id": "14d32e76-54a3-48bc-9a6d-b0bd5ae2cf87",
+    "latitude": 44.7391844957455,
+    "longitude": -93.5225418633914
+  },
+  {
+    "sales_id": "18d864cc-51ac-4020-8f79-6c0f8e0d54ef",
+    "latitude": 45.0230493733846,
+    "longitude": -92.9879407862863
+  },
+  {
+    "sales_id": "19813924-255e-416e-a44f-bdb5702def8f",
+    "latitude": 44.8075238046583,
+    "longitude": -93.2005550013727
+  },
+  {
+    "sales_id": "1b9c91ce-0733-4c49-98eb-95d4480d9b64",
+    "latitude": 44.7393687141624,
+    "longitude": -93.2772499704062
+  },
+  {
+    "sales_id": "1cea9a14-85b8-4eeb-bbe5-fdc1ace984ec",
+    "latitude": 44.8385728674084,
+    "longitude": -93.7883302564102
+  },
+  {
+    "sales_id": "1d672e0c-102c-49a2-b05e-81c0913f0b89",
+    "latitude": 44.7985928674084,
+    "longitude": -93.1204620689655
+  },
+  {
+    "sales_id": "1f0363bb-c661-4c3c-91d9-ab0382018b7c",
+    "latitude": 44.7400160099929,
+    "longitude": -93.0978363870103
+  },
+  {
+    "sales_id": "21d33c51-fe56-4499-ae35-9e4e88f00189",
+    "latitude": 44.7431159879682,
+    "longitude": -93.1996366232687
+  },
+  {
+    "sales_id": "23c6f9a6-278a-43d2-9490-6242c39ac0be",
+    "latitude": 45.0095585730398,
+    "longitude": -93.1713509721651
+  },
+  {
+    "sales_id": "29098117-020e-45f7-90d6-d4019abf7069",
+    "latitude": 46.7975770286206,
+    "longitude": -92.0899208302135
+  },
+  {
+    "sales_id": "2a728c17-728b-45b3-8a93-edfe58cf452c",
+    "latitude": 45.0281917822441,
+    "longitude": -93.2437009660463
+  },
+  {
+    "sales_id": "2d969b3b-0ec3-4e19-8e07-306c98686e4a",
+    "latitude": 44.6485316284035,
+    "longitude": -93.1531057949208
+  },
+  {
+    "sales_id": "2f4dbf74-59de-470b-8e29-000fb390c775",
+    "latitude": 44.7989976575892,
+    "longitude": -93.2097529469867
+  },
+  {
+    "sales_id": "321d97e8-a256-4cc2-a54f-618865943212",
+    "latitude": 44.6355476363645,
+    "longitude": -93.3264904659115
+  },
+  {
+    "sales_id": "326875b8-c246-459a-a401-b3cc1067531f",
+    "latitude": 44.9265814220616,
+    "longitude": -93.2845936867406
+  },
+  {
+    "sales_id": "33fae4e3-c256-4251-8514-1206df64fcd2",
+    "latitude": 44.9045909082612,
+    "longitude": -93.3177266616394
+  },
+  {
+    "sales_id": "37f4062d-955b-4a2a-869e-99d5f982afef",
+    "latitude": 44.7911974686643,
+    "longitude": -93.1514544408309
+  },
+  {
+    "sales_id": "38dd846c-a313-4196-8e17-c6066e6961d9",
+    "latitude": 44.7442302367277,
+    "longitude": -93.2086206432557
+  },
+  {
+    "sales_id": "3abc397b-12da-4171-a46e-c08165ca9329",
+    "latitude": 44.6308471325916,
+    "longitude": -93.1542384210526
+  },
+  {
+    "sales_id": "3bbc40c7-2366-4573-ac66-1f007d557192",
+    "latitude": 44.6355552955079,
+    "longitude": -93.308369471605
+  },
+  {
+    "sales_id": "3d58158f-4798-402e-b83d-1c215091833a",
+    "latitude": 44.6335246938776,
+    "longitude": -93.1349927061342
+  },
+  {
+    "sales_id": "401d4d4a-0bc5-45ed-8efa-a4fbd60ccd13",
+    "latitude": 44.9789773566742,
+    "longitude": -93.2591666609878
+  },
+  {
+    "sales_id": "40db038f-c693-40c2-bef9-db1972d7c726",
+    "latitude": 44.8381678358528,
+    "longitude": -93.2963847270417
+  },
+  {
+    "sales_id": "4300aab7-3722-4fb2-affb-c972d8025937",
+    "latitude": 44.7335658404358,
+    "longitude": -93.2922216416753
+  },
+  {
+    "sales_id": "4658fc69-616b-4c77-8fef-95c90dfaf6d9",
+    "latitude": 44.7915300987314,
+    "longitude": -93.1522689997924
+  },
+  {
+    "sales_id": "46913d6d-07bc-4a0e-b86f-b766c2c196fc",
+    "latitude": 44.8016333940182,
+    "longitude": -93.1347436347415
+  },
+  {
+    "sales_id": "49486f0b-daa1-446e-8804-981859bbba00",
+    "latitude": 44.8174935836243,
+    "longitude": -93.1278741552433
+  },
+  {
+    "sales_id": "4af9bf2d-4547-41f7-ab68-670130135a7b",
+    "latitude": 44.7522028171039,
+    "longitude": -93.2000032605266
+  },
+  {
+    "sales_id": "4b04ec3c-436c-440b-9445-dc8def565a48",
+    "latitude": 44.6355552955079,
+    "longitude": -93.308369471605
+  },
+  {
+    "sales_id": "4e23ac45-2b8d-4f4a-93ba-4798d3c43c9f",
+    "latitude": 44.8236984893393,
+    "longitude": -93.3024863563995
+  },
+  {
+    "sales_id": "5022da7c-e5a9-42de-bd6c-1534d84612d8",
+    "latitude": 44.7499571325916,
+    "longitude": -93.1822405068007
+  },
+  {
+    "sales_id": "5026ea91-dcca-4824-9bea-a53a81bfdf54",
+    "latitude": 44.8061628674084,
+    "longitude": -93.1941888387135
+  },
+  {
+    "sales_id": "55b18686-af2c-415b-862e-44ad3b36505b",
+    "latitude": 44.7954468939139,
+    "longitude": -93.1376594933827
+  },
+  {
+    "sales_id": "5a131e65-bead-4d27-b3d9-8d7a54312f1e",
+    "latitude": 44.749469536584,
+    "longitude": -93.2251920416938
+  },
+  {
+    "sales_id": "5d0082c6-6b74-4232-9744-01dad8747b3a",
+    "latitude": 45.011250372205,
+    "longitude": -93.0166553410482
+  },
+  {
+    "sales_id": "5e984c76-ce4a-46ba-a795-b690d72ba70c",
+    "latitude": 44.9394006988582,
+    "longitude": -93.2870649426434
+  },
+  {
+    "sales_id": "5f928bc7-8792-4072-960a-dd47e46fef5f",
+    "latitude": 44.6431609368486,
+    "longitude": -93.1308375289477
+  },
+  {
+    "sales_id": "610011bf-0381-4f53-9536-e6c21d05e1a5",
+    "latitude": 44.8075238046583,
+    "longitude": -93.2005550013727
+  },
+  {
+    "sales_id": "62f8a4f9-f168-471d-9acd-ac52788065f6",
+    "latitude": 44.7390300881102,
+    "longitude": -93.2217518687922
+  },
+  {
+    "sales_id": "6c038a16-478d-42c8-82f5-07f554e2875e",
+    "latitude": 44.8051800127754,
+    "longitude": -93.1995999027411
+  },
+  {
+    "sales_id": "6ee635c1-2e79-49d7-a32c-16ee77c07192",
+    "latitude": 44.7365329907954,
+    "longitude": -93.2122084416445
+  },
+  {
+    "sales_id": "70c2436b-0145-4cf7-b80a-2f20261514d3",
+    "latitude": 44.9616445454878,
+    "longitude": -93.2945559144574
+  },
+  {
+    "sales_id": "70ec9ac9-cc28-41a6-aafd-7e1e960bbd70",
+    "latitude": 44.640112846254,
+    "longitude": -93.1284385042959
+  },
+  {
+    "sales_id": "7420dca6-eb16-4c12-bf29-5bf8586ca29f",
+    "latitude": 45.0824971325916,
+    "longitude": -93.1838277596137
+  },
+  {
+    "sales_id": "75820a82-3626-4b40-9d35-479b7276585e",
+    "latitude": 44.7345409002096,
+    "longitude": -93.2792460710644
+  },
+  {
+    "sales_id": "7655c4eb-a1e9-40aa-8973-e97bb610226c",
+    "latitude": 44.749469536584,
+    "longitude": -93.2251920416938
+  },
+  {
+    "sales_id": "79b00ae5-20a4-468d-8193-91e2f1ca6272",
+    "latitude": 44.7381122273584,
+    "longitude": -93.1940728703541
+  },
+  {
+    "sales_id": "7d9bcc19-e649-45df-b617-58555144016d",
+    "latitude": 44.6376328674084,
+    "longitude": -93.13093
+  },
+  {
+    "sales_id": "817340a1-1b29-42b4-9e72-d9503df70dae",
+    "latitude": 44.5072573884243,
+    "longitude": -92.9102889200209
+  },
+  {
+    "sales_id": "81ac34fa-9de6-4a42-8495-2dc65206b777",
+    "latitude": 44.7157465353692,
+    "longitude": -93.2783101401681
+  },
+  {
+    "sales_id": "81f04cae-7ff8-418e-a4e4-d9f4c75820b3",
+    "latitude": 44.7594408795238,
+    "longitude": -93.1966424008969
+  },
+  {
+    "sales_id": "827c71a0-890f-40d3-a0cd-3fecf683bf1a",
+    "latitude": 44.6485316284035,
+    "longitude": -93.1531057949208
+  },
+  {
+    "sales_id": "82fc67f0-5650-4a2c-93d5-cc71f95e55e7",
+    "latitude": 44.7389512206932,
+    "longitude": -93.2121284767376
+  },
+  {
+    "sales_id": "874e22db-325a-4222-bf7f-4d805029088f",
+    "latitude": 44.6500181068245,
+    "longitude": -93.1673268163489
+  },
+  {
+    "sales_id": "88fee317-a5b3-49ab-bbf2-ad2d5ae229a9",
+    "latitude": 44.8004395678366,
+    "longitude": -93.1365566980769
+  },
+  {
+    "sales_id": "893a7757-6045-431e-933a-1ffe39975810",
+    "latitude": 44.7998797560976,
+    "longitude": -93.1395332609376
+  },
+  {
+    "sales_id": "8941b7c5-73c9-453e-8909-b7b61ff7f568",
+    "latitude": 44.8180434061431,
+    "longitude": -93.207948011979
+  },
+  {
+    "sales_id": "8c65fc9e-cc35-4f71-836c-da337a22b511",
+    "latitude": 44.9082151436193,
+    "longitude": -93.3173398476353
+  },
+  {
+    "sales_id": "90f559d3-436f-4483-a30e-ae361fd25782",
+    "latitude": 44.8024148249205,
+    "longitude": -93.1341539485129
+  },
+  {
+    "sales_id": "950dc4b8-c360-4f1c-986d-2f3b46e5461a",
+    "latitude": 44.8104913490201,
+    "longitude": -93.2167363475606
+  },
+  {
+    "sales_id": "95b38ecc-1226-4ae9-8e05-59c9441e6627",
+    "latitude": 44.9518196870844,
+    "longitude": -93.2911688421545
+  },
+  {
+    "sales_id": "990e0849-8d5e-4637-b652-23d06f233bd3",
+    "latitude": 45.0848631761023,
+    "longitude": -93.445014672294
+  },
+  {
+    "sales_id": "9e7acaf4-4640-4fbb-ba75-35db5ce44b40",
+    "latitude": 44.7532108374855,
+    "longitude": -93.1819062406284
+  },
+  {
+    "sales_id": "9edb7003-c454-4f90-90fd-9debacac9d99",
+    "latitude": 44.9061845442865,
+    "longitude": -93.2986695333822
+  },
+  {
+    "sales_id": "a2ed1a20-3cab-4eee-aa12-0512251e5557",
+    "latitude": 45.0593171325916,
+    "longitude": -93.1901388888889
+  },
+  {
+    "sales_id": "a5ae6482-8d6a-4b05-a618-96ebf77ad2ad",
+    "latitude": 44.8988752585096,
+    "longitude": -93.3050443512355
+  },
+  {
+    "sales_id": "a5d7a504-91e9-40b5-8b05-b4e258064f14",
+    "latitude": 44.6260803793725,
+    "longitude": -93.1410817744065
+  },
+  {
+    "sales_id": "a8be239a-be78-40b5-a70e-66fc774a9326",
+    "latitude": 45.0357830687244,
+    "longitude": -93.239457303587
+  },
+  {
+    "sales_id": "a8d4186c-86a2-41ee-a26b-16387de7f424",
+    "latitude": 44.7430817575044,
+    "longitude": -93.2234809058605
+  },
+  {
+    "sales_id": "adae44b5-5f34-4474-844d-15ab94f85934",
+    "latitude": 44.7418576404363,
+    "longitude": -93.2222541387498
+  },
+  {
+    "sales_id": "aea2ab81-bb4a-46ce-8aea-0540d15ddae0",
+    "latitude": 44.9495820102277,
+    "longitude": -93.0948116895805
+  },
+  {
+    "sales_id": "afb8a10b-7cc3-49a4-9d50-7f0f7d40d1b3",
+    "latitude": 44.5112053854861,
+    "longitude": -92.8764074676887
+  },
+  {
+    "sales_id": "b34a430c-7cf5-4d15-908a-3177aa98566d",
+    "latitude": 44.8072556660509,
+    "longitude": -93.1855309307342
+  },
+  {
+    "sales_id": "b75131a7-9323-4918-ae7e-44f7a1692120",
+    "latitude": 44.7385629977884,
+    "longitude": -93.201323055882
+  },
+  {
+    "sales_id": "b7716612-0e13-4366-9390-63da291bc493",
+    "latitude": 44.7563889599114,
+    "longitude": -93.2159008860303
+  },
+  {
+    "sales_id": "c14a8221-d6de-468e-a021-1568f0ffd632",
+    "latitude": 44.7377367404612,
+    "longitude": -93.2681327109603
+  },
+  {
+    "sales_id": "c19cf6d3-09c3-4ba4-9295-7a7ad8dacf60",
+    "latitude": 44.9261742857143,
+    "longitude": -93.2521963146321
+  },
+  {
+    "sales_id": "c26540a9-34f1-4d88-a769-296336a71f12",
+    "latitude": 45.0126621099307,
+    "longitude": -93.1299214737166
+  },
+  {
+    "sales_id": "c29f34c4-46c5-408c-8c17-51f980813f63",
+    "latitude": 44.1314999520697,
+    "longitude": -94.0036379464216
+  },
+  {
+    "sales_id": "c3fb3dfa-08f4-4867-8a38-6bf1eb49173f",
+    "latitude": 44.8061608338038,
+    "longitude": -93.1939042639236
+  },
+  {
+    "sales_id": "c4b1211f-41e2-48cd-b71e-8124ab73f50c",
+    "latitude": 44.7527558523957,
+    "longitude": -93.2017031833336
+  },
+  {
+    "sales_id": "c5af7f5f-ef66-4704-a211-f93f2fc70f09",
+    "latitude": 44.9478189380133,
+    "longitude": -93.2831968165217
+  },
+  {
+    "sales_id": "c66b43f1-51f5-4d0e-987f-c907b07707cf",
+    "latitude": 45.0082639908302,
+    "longitude": -93.2360806234784
+  },
+  {
+    "sales_id": "c67d5a7e-f047-4187-b1c0-0564cc490303",
+    "latitude": 44.8258981371546,
+    "longitude": -93.3191553065225
+  },
+  {
+    "sales_id": "c7cd8ce4-1da8-470a-aafb-222f8dfd8cd6",
+    "latitude": 44.9511697005949,
+    "longitude": -93.2904267747927
+  },
+  {
+    "sales_id": "c87d9b97-a635-4471-95e7-40cbe399bdc0",
+    "latitude": 44.8023927758646,
+    "longitude": -93.20043329535
+  },
+  {
+    "sales_id": "c9d7cdff-ea96-424b-a25b-013f24151e61",
+    "latitude": 44.7533108623673,
+    "longitude": -93.2140416834225
+  },
+  {
+    "sales_id": "cc4f2b94-91cf-4038-9d5c-47ee81fced6c",
+    "latitude": 44.7426803686291,
+    "longitude": -93.1786783146325
+  },
+  {
+    "sales_id": "cee28395-0069-4e75-acd3-5078ce8bd1e6",
+    "latitude": 44.9897944723311,
+    "longitude": -93.1647616159444
+  },
+  {
+    "sales_id": "cfaaeba1-8e84-4775-b76e-146f90cbaec1",
+    "latitude": 44.7156661199118,
+    "longitude": -93.2783079670454
+  },
+  {
+    "sales_id": "d11d41e6-4395-49fe-9902-3e3630856d0b",
+    "latitude": 43.5784012289816,
+    "longitude": -91.6567314234266
+  },
+  {
+    "sales_id": "d1995249-4ff0-4280-a1fc-fc698a8761d5",
+    "latitude": 44.7639145318325,
+    "longitude": -93.4944778245894
+  },
+  {
+    "sales_id": "d7a6f6c9-9676-4150-a561-ea8bc5cb4a4b",
+    "latitude": 44.7448309589041,
+    "longitude": -93.2201730768132
+  },
+  {
+    "sales_id": "d8698678-c7de-4d1d-a4f6-e03783c937ed",
+    "latitude": 44.7212078962107,
+    "longitude": -93.3066213904144
+  },
+  {
+    "sales_id": "e06f0c4d-44f1-4bbf-9d5b-68bf64750ce3",
+    "latitude": 44.513081533379,
+    "longitude": -92.8940813122018
+  },
+  {
+    "sales_id": "e46f4807-5b0a-4e3c-81a3-6b97047c70a0",
+    "latitude": 44.7588033961076,
+    "longitude": -93.213578376625
+  },
+  {
+    "sales_id": "e49a0e17-9432-4815-b8db-fd55d0ca3215",
+    "latitude": 44.0695891252867,
+    "longitude": -93.2148979185619
+  },
+  {
+    "sales_id": "e6279725-1cc8-46ce-9ad1-9926cec870bb",
+    "latitude": 44.7928315987533,
+    "longitude": -93.1487521498423
+  },
+  {
+    "sales_id": "eadce8fa-d570-48ed-afd5-8580b25d71c0",
+    "latitude": 44.9710884649014,
+    "longitude": -93.193408445444
+  },
+  {
+    "sales_id": "ed0f316c-4268-4ae5-be3a-66c2dac8828a",
+    "latitude": 44.6498828900693,
+    "longitude": -93.1303835041568
+  },
+  {
+    "sales_id": "ed20b240-c19f-49f9-a203-e9d467ddd42c",
+    "latitude": 44.8185808695652,
+    "longitude": -93.3258133236087
+  },
+  {
+    "sales_id": "ed890f2b-cd15-4934-8b01-51dc4a6f4630",
+    "latitude": 44.9653642237859,
+    "longitude": -93.2062695197774
+  },
+  {
+    "sales_id": "f003a5d1-3931-4c79-9fb6-9c02b6ce0270",
+    "latitude": 44.9452662925373,
+    "longitude": -93.1818260848872
+  },
+  {
+    "sales_id": "f19b6b85-6406-4c7b-8e87-ea755fd4fa99",
+    "latitude": 44.7293269518462,
+    "longitude": -93.2908249356025
+  },
+  {
+    "sales_id": "f23390eb-af39-486a-a986-9a62781ffbf5",
+    "latitude": 44.8012662797025,
+    "longitude": -93.1217120906037
+  },
+  {
+    "sales_id": "f2adbd0e-6be8-4c38-a0e9-9f4f4c4ba0ae",
+    "latitude": 44.6355476363645,
+    "longitude": -93.3264904659115
+  },
+  {
+    "sales_id": "f2dfa452-b2db-4009-8d88-2bdaf4d33621",
+    "latitude": 44.7421339474325,
+    "longitude": -93.2222712670936
+  },
+  {
+    "sales_id": "f6830586-84b9-4fc5-8f01-26b3b933c32e",
+    "latitude": 44.8187853215885,
+    "longitude": -93.2013272126944
+  },
+  {
+    "sales_id": "f6c6a06e-b415-4be8-99ab-642fd7de3b65",
+    "latitude": 44.7483862929504,
+    "longitude": -93.1807062118462
+  },
+  {
+    "sales_id": "f6e024ee-dd6a-4490-b994-fba974c06ecf",
+    "latitude": 44.6426308758526,
+    "longitude": -93.1402747499807
+  },
+  {
+    "sales_id": "f84faf89-d6f4-42de-81dc-a5be28697202",
+    "latitude": 44.9331988342097,
+    "longitude": -93.2690183999784
+  },
+  {
+    "sales_id": "f8fabce6-77c9-4d4e-a452-dc64e4ef547d",
+    "latitude": 44.0339618760465,
+    "longitude": -92.8695509272883
+  },
+  {
+    "sales_id": "fa792545-b299-44d2-b939-6e569e24e16f",
+    "latitude": 44.9501338116028,
+    "longitude": -93.0854533065978
+  },
+  {
+    "sales_id": "fac6872b-3b60-4841-84e5-d600e71d77bc",
+    "latitude": 44.7333773448813,
+    "longitude": -93.3016963294731
+  },
+  {
+    "sales_id": "fb001afc-c2d6-448d-9890-d1d955436e8b",
+    "latitude": 44.7284837184644,
+    "longitude": -93.2903374925299
+  },
+  {
+    "sales_id": "fc799e8f-86e9-47b2-b186-c61f1cacc7a6",
+    "latitude": 44.8002176825829,
+    "longitude": -93.1401663286784
+  },
+  {
+    "sales_id": "fce2763c-5621-4436-b67b-569acbaa9174",
+    "latitude": 44.8105671325916,
+    "longitude": -93.1964596468942
+  },
+  {
+    "sales_id": "fcef6daa-76fb-448c-934c-75e3bd31f42b",
+    "latitude": 44.8175446260486,
+    "longitude": -93.2074094129415
+  },
+  {
+    "sales_id": "ff6685b8-ab85-4538-8011-34664fa202c4",
+    "latitude": 44.8004774054648,
+    "longitude": -93.2079782332045
+  },
+  {
+    "sales_id": "ffe0bdfd-6c15-40a9-977c-79e86c2f69a3",
+    "latitude": 45.1527249741352,
+    "longitude": -93.241739974645
+  },
+  {
+    "sales_id": "ffed35dc-81bb-416e-894a-a452a4a33414",
+    "latitude": 44.8451427465356,
+    "longitude": -93.3142455242317
+  }
+]
